@@ -1,0 +1,7 @@
+Prezado(a) ${CLIENTE},
+
+Para o seu controle, estamos encaminhando seu contrato ${CERTIFICADO}.
+
+Atenciosamente,
+
+Ricardo Gayer.
